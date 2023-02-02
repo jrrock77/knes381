@@ -6,3 +6,4 @@
     <td><img src="/images/image.jpg"></td>
   </tr>
   </table>
+<p style="color:Violet;">Here is some extra text just to make sure you know where to find things. First, the hyperlink on the left of the page sends you to a file with some average data found on the interent. That file is stored in a folder within my repository called subfolder. The picture on the right is an image found on google downloaded to my computer and then pushed to my repository on github. It is also stored in the folder named subfolder.</p>
