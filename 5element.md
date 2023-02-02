@@ -3,4 +3,5 @@
 h1 {text-align: center;}
 img {
 </style>
-<h1>5 Element Task</h1>
+<h1><p align; center>5 Element Task</h1>
+<img src="image.jpg">
